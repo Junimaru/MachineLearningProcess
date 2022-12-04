@@ -7,3 +7,5 @@ disc :
 
 ## Pengembangan Model Machine Learning menggunakan Pada Notebook
 
+### Data Preparation
+
