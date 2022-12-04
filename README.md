@@ -29,7 +29,7 @@ Setelah mengerti mengenai variabel data langkah selanjutnya dalam data analisis 
 
 ### Cek Missing Data
 
-<img src="assets/02. cek nan.jpg" width="500"/>
+<img src="assets/02. cek nan.jpg" width="200"/>
 
 impute data
 
@@ -59,7 +59,7 @@ utils.pickle_dump(y_test, config["test_set_path"][1])
 
 1. Lakukan ringkasan statistik pada data train
 
-<img src="assets/03.deskriptif.jpg" width="500"/>
+<img src="assets/03.deskriptif.jpg" width="1000"/>
 
 2. Lakukan pengecekan terhadap imbalance data
 
