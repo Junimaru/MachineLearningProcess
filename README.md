@@ -189,8 +189,8 @@ bentuk filenya dapat berusa sbb:
 
 dari python tersebut kita coba jalankan atau dapat di tes menggunakan pytest, kemudian mendapatkan data berupa pickle yaang nantinya akan digunakan pada API dan Streamlit
 
-<img src="assets/13.pickeldata.jpg" width="500"/>
-<img src="assets/14.picklemodel.jpg" width="500"/>
+<img src="assets/13.pickeldata.jpg" width="200"/>
+<img src="assets/14.picklemodel.jpg" width="200"/>
 
 
 ### Buat API dan Streamlit
@@ -236,11 +236,11 @@ uvicorn.run("api:app", host = "0.0.0.0", port = 8080)
 
 isikan form tersebut sesuai rangenya, kemudian klik submit maka pada API akan menerima data sbb:
 
-<img src="assets/17.apiinput.jpg" width="500"/>
+<img src="assets/17.apiinput.jpg" width="300"/>
 
 dan Outputnya
 
-<img src="assets/18.apioutput.jpg" width="500"/>
+<img src="assets/18.apioutput.jpg" width="300"/>
 
 
 ### CATATAN
