@@ -29,7 +29,7 @@ Setelah mengerti mengenai variabel data langkah selanjutnya dalam data analisis 
 
 ### Cek Missing Data
 
-<img src="assets/01. cek nan.jpg" width="500"/>
+<img src="assets/02. cek nan.jpg" width="500"/>
 
 impute data
 
@@ -185,7 +185,7 @@ Setelah selesai pembuatan model dalam notebook, selanjutnya  adalah mengkonversi
 
 bentuk filenya dapat berusa sbb:
 
-<img src="assets/15.scriptspython.jpg" width="500"/>
+<img src="assets/15.scriptspython.jpg" width="200"/>
 
 dari python tersebut kita coba jalankan atau dapat di tes menggunakan pytest, kemudian mendapatkan data berupa pickle yaang nantinya akan digunakan pada API dan Streamlit
 
